@@ -11,4 +11,7 @@
     <string name="hello_second_fragment">Hello! User2. Arg: %1$s</string>
     <string name="toast_button_text">Toast</string>
     <string name="button_set">Count</string>
+    <string name="randomName">R</string>
+    <string name="random_heading">Here is a random number between 0 and %d.</string>
+    <string name="RandomName1">R</string>
 </resources>
